@@ -1,0 +1,5 @@
+DIFFERENCE BETWEEN TUPLE AND DICTIONARY
+
+Dictionaries are unordered collections of key-value associations and A tuple is a group of values represented as one value.
+Tuple can contain different values with different datatype whereas dictionary can contain only one datatype value at a time.
+Tuples are particularly useful for returning multiple value from a function.where Dictionary can be used as a model object.
